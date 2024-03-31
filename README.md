@@ -298,33 +298,43 @@ Also they get to know about the Monthly stats for their products.
        
        Created all the required cards and charts in this report page. It includes:
 
-        - 1.1 Inserted the Logo of the company![pic_1](https://github.com/manjunath528/adventure_dashborad/assets/109943347/0b7e51ac-2bc4-4d92-b9fa-e15abe2744e9)
+        - 1.1 Inserted the Logo of the company
+        ![pic_1](https://github.com/manjunath528/adventure_dashborad/assets/109943347/0b7e51ac-2bc4-4d92-b9fa-e15abe2744e9)
 
-        - 1.2 Revenue card![pic_2](https://github.com/manjunath528/adventure_dashborad/assets/109943347/a2f30e91-b137-4f8d-9cad-85b6f25c474a)
+        - 1.2 Revenue card
+        ![pic_2](https://github.com/manjunath528/adventure_dashborad/assets/109943347/a2f30e91-b137-4f8d-9cad-85b6f25c474a)
           
 
-        - 1.3 Profit card![pic_3](https://github.com/manjunath528/adventure_dashborad/assets/109943347/323e12b2-10f2-4313-971f-878e4786f726)
+        - 1.3 Profit card
+        ![pic_3](https://github.com/manjunath528/adventure_dashborad/assets/109943347/323e12b2-10f2-4313-971f-878e4786f726)
           
         
-        - 1.4 Orders card![pic_4](https://github.com/manjunath528/adventure_dashborad/assets/109943347/33373257-0185-41a7-92ec-9132d5eab771)
+        - 1.4 Orders card
+        ![pic_4](https://github.com/manjunath528/adventure_dashborad/assets/109943347/33373257-0185-41a7-92ec-9132d5eab771)
          
 
-        - 1.5 Return rate ![pic_5](https://github.com/manjunath528/adventure_dashborad/assets/109943347/2dc55ad6-8f7f-4529-bbd6-09cfe1135935)
+        - 1.5 Return rate 
+        ![pic_5](https://github.com/manjunath528/adventure_dashborad/assets/109943347/2dc55ad6-8f7f-4529-bbd6-09cfe1135935)
           
 
-        - 1.6 Line Chart for the Month vs Revenue ![pic_6](https://github.com/manjunath528/adventure_dashborad/assets/109943347/91a81088-47f7-4041-ba11-c45ec1136779)
+        - 1.6 Line Chart for the Month vs Revenue
+        ![pic_6](https://github.com/manjunath528/adventure_dashborad/assets/109943347/91a81088-47f7-4041-ba11-c45ec1136779)
           
         
-        - 1.7 Bar Chart for the Category and Orders![pic_7](https://github.com/manjunath528/adventure_dashborad/assets/109943347/bee47e0b-8d70-4fa1-b09e-89cb053dda64)
+        - 1.7 Bar Chart for the Category and Orders
+        ![pic_7](https://github.com/manjunath528/adventure_dashborad/assets/109943347/bee47e0b-8d70-4fa1-b09e-89cb053dda64)
           
         
-        - 1.8 Matrix chart of top 10 products![pic_8](https://github.com/manjunath528/adventure_dashborad/assets/109943347/de106104-01cb-4e90-b1ee-c021073fd0b5)
+        - 1.8 Matrix chart of top 10 products
+        ![pic_8](https://github.com/manjunath528/adventure_dashborad/assets/109943347/de106104-01cb-4e90-b1ee-c021073fd0b5)
           
         
-        - 1.9 Monthly Cards for the Revenue, Orders, Returns![pic_9](https://github.com/manjunath528/adventure_dashborad/assets/109943347/395e68e2-9129-40e8-8f51-0c0ad7de2f5d)
+        - 1.9 Monthly Cards for the Revenue, Orders, Returns
+        ![pic_9](https://github.com/manjunath528/adventure_dashborad/assets/109943347/395e68e2-9129-40e8-8f51-0c0ad7de2f5d)
           
         
-        - 1.10 Text cards for the Most ordered and returned products![pic_10](https://github.com/manjunath528/adventure_dashborad/assets/109943347/52bc3813-3daa-473c-888d-06a3705dedd1)
+        - 1.10 Text cards for the Most ordered and returned products
+        ![pic_10](https://github.com/manjunath528/adventure_dashborad/assets/109943347/52bc3813-3daa-473c-888d-06a3705dedd1)
           
 
         
@@ -332,7 +342,8 @@ Also they get to know about the Monthly stats for their products.
 
     - 2.Map
       
-      Created the basic map report page for the orders based on the location and added a slicer for the each region.![pic_11](https://github.com/manjunath528/adventure_dashborad/assets/109943347/625ee943-ec33-4c2c-88f0-804a263b2214)
+      Created the basic map report page for the orders based on the location and added a slicer for the each region.
+      ![pic_11](https://github.com/manjunath528/adventure_dashborad/assets/109943347/625ee943-ec33-4c2c-88f0-804a263b2214)
 
       
 
@@ -340,49 +351,63 @@ Also they get to know about the Monthly stats for their products.
 
        Created a drill through and configured drill through from product name in the Exec Dashboard.
        
-       - 3.1 Inserted the gauge charts for monthly order, revenue and profit with their targets.![pic_12](https://github.com/manjunath528/mlprojet2/assets/109943347/29fb59f5-8149-40c2-898d-6c18246209bc)
+       - 3.1 Inserted the gauge charts for monthly order, revenue and profit with their targets.
+       ![pic_12](https://github.com/manjunath528/mlprojet2/assets/109943347/29fb59f5-8149-40c2-898d-6c18246209bc)
 
     
-       - 3.2 Inserted the line charts for the Total profit and adjusted profit to the month wise. And added a slicer for the price adjustment.![pic_13](https://github.com/manjunath528/adventure_dashborad/assets/109943347/c29b8a8c-06a2-4f65-bf77-46949633c3e7)
+       - 3.2 Inserted the line charts for the Total profit and adjusted profit to the month wise. And added a slicer for the price adjustment.
+       ![pic_13](https://github.com/manjunath528/adventure_dashborad/assets/109943347/c29b8a8c-06a2-4f65-bf77-46949633c3e7)
 
        
     
-       - 3.3 Inserted the area chart for the Monthly Returns , Profit, Orders ,Revenue and Return rate using the slicer which is single selection. ![pic_14](https://github.com/manjunath528/adventure_dashborad/assets/109943347/b8a32565-328b-4f71-b4b2-3426b3ea9db0)
+       - 3.3 Inserted the area chart for the Monthly Returns , Profit, Orders ,Revenue and Return rate using the slicer which is single selection. 
+       ![pic_14](https://github.com/manjunath528/adventure_dashborad/assets/109943347/b8a32565-328b-4f71-b4b2-3426b3ea9db0)
        
 
-       - 3.4 Added a Text box to get the Report Summary of the selected product.![pic_15](https://github.com/manjunath528/adventure_dashborad/assets/109943347/1d818b84-e67e-4513-93f9-5ba49a872f98)
+       - 3.4 Added a Text box to get the Report Summary of the selected product.
+       ![pic_15](https://github.com/manjunath528/adventure_dashborad/assets/109943347/1d818b84-e67e-4513-93f9-5ba49a872f98)
        
 
     - 4.Customer Detail
         
-       - 4.1 Inserted a cards for the total unique customers, revenue per customer .![pic_16](https://github.com/manjunath528/adventure_dashborad/assets/109943347/45225bcc-3346-4f0e-a5a7-0d66fe4713bd)
+       - 4.1 Inserted a cards for the total unique customers, revenue per customer .
+       ![pic_16](https://github.com/manjunath528/adventure_dashborad/assets/109943347/45225bcc-3346-4f0e-a5a7-0d66fe4713bd)
        
 
-       - 4.2 Inserted a donut chart for the orders by income level and orders by the occupation .![pic_17](https://github.com/manjunath528/adventure_dashborad/assets/109943347/3ddc2a93-f6a8-45dd-a9c2-4da79e58f8b5)
+       - 4.2 Inserted a donut chart for the orders by income level and orders by the occupation .
+       ![pic_17](https://github.com/manjunath528/adventure_dashborad/assets/109943347/3ddc2a93-f6a8-45dd-a9c2-4da79e58f8b5)
        
 
-       - 4.3 Inserted the matrix to show the top 100 customers with the orders and Revenue.![pic_18](https://github.com/manjunath528/adventure_dashborad/assets/109943347/33f88c7e-87ed-48cc-b362-24e3728d0492)
+       - 4.3 Inserted the matrix to show the top 100 customers with the orders and Revenue.
+       ![pic_18](https://github.com/manjunath528/adventure_dashborad/assets/109943347/33f88c7e-87ed-48cc-b362-24e3728d0492)
        
 
        - 4.4 Inserted the line chart for the total number of customers and revenue per customer using slicer for a months.
+       
        ![pic_19](https://github.com/manjunath528/adventure_dashborad/assets/109943347/3ea60c5b-196f-4349-bbd8-b3644e67849d)
 
-       - 4.5 Inserted the cards for the top customer by revenue , orders by the customer and Revenue of the customer.![pic_20](https://github.com/manjunath528/adventure_dashborad/assets/109943347/3c342a95-a9e4-4625-b062-a0f096d5075e)
+       - 4.5 Inserted the cards for the top customer by revenue , orders by the customer and Revenue of the customer.
+       ![pic_20](https://github.com/manjunath528/adventure_dashborad/assets/109943347/3c342a95-a9e4-4625-b062-a0f096d5075e)
        
 
-       - 4.6 Inserted the bookmark for the information.![pic_21](https://github.com/manjunath528/adventure_dashborad/assets/109943347/de31ce7c-df75-4bbb-aa8b-43c6df4cefdd)
+       - 4.6 Inserted the bookmark for the information.
+       ![pic_21](https://github.com/manjunath528/adventure_dashborad/assets/109943347/de31ce7c-df75-4bbb-aa8b-43c6df4cefdd)
 
 
 After completing all this our dashboards look as shown below :
 
-- Exec Dashboard![Screenshot 2024-03-31 205757](https://github.com/manjunath528/adventure_dashborad/assets/109943347/31d6cdad-534e-4511-8d49-ecd26e9e4842)
+- Exec Dashboard
+![Screenshot 2024-03-31 205757](https://github.com/manjunath528/adventure_dashborad/assets/109943347/31d6cdad-534e-4511-8d49-ecd26e9e4842)
 
 
 
-- Map![Screenshot 2024-03-31 205835](https://github.com/manjunath528/adventure_dashborad/assets/109943347/d04a5806-9e53-4d14-b84d-bf7ea2151a53)
+- Map
+![Screenshot 2024-03-31 205835](https://github.com/manjunath528/adventure_dashborad/assets/109943347/d04a5806-9e53-4d14-b84d-bf7ea2151a53)
 
 
-- Product Details![Screenshot 2024-03-31 205900](https://github.com/manjunath528/adventure_dashborad/assets/109943347/9dcdca4d-057d-41f9-a7dd-2c6119e54379)
+- Product Details
+![Screenshot 2024-03-31 205900](https://github.com/manjunath528/adventure_dashborad/assets/109943347/9dcdca4d-057d-41f9-a7dd-2c6119e54379)
 
-- Customer Details![Screenshot 2024-03-31 205920](https://github.com/manjunath528/adventure_dashborad/assets/109943347/eb29179d-6523-460f-a04d-67be1464c47a)
+- Customer Details
+![Screenshot 2024-03-31 205920](https://github.com/manjunath528/adventure_dashborad/assets/109943347/eb29179d-6523-460f-a04d-67be1464c47a)
      
