@@ -307,7 +307,7 @@ Also they get to know about the Monthly stats for their products.
 
         - 1.1 Inserted the Logo of the company
 
-              ![pic_1](https://github.com/manjunath528/adventure_dashborad/assets/109943347/0b7e51ac-2bc4-4d92-b9fa-e15abe2744e9)
+             ![pic_1](https://github.com/manjunath528/adventure_dashborad/assets/109943347/0b7e51ac-2bc4-4d92-b9fa-e15abe2744e9)
 
         - 1.2 Revenue card
 
