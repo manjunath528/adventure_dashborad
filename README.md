@@ -27,7 +27,7 @@ Also they get to know about the Monthly stats for their products.
 
 - Step 8 : In the Data Modeling section, created the all the relationships between the tables.Here the static tables are Customer Lookup , Calender Lookup, Product Lookup , Territory Lookup and the fact tables are Sales Data and Return Data.
 
-       ![5](https://github.com/manjunath528/adventure_dashborad/assets/109943347/328d277b-0b74-4106-badb-97e037131fdd)
+     ![5](https://github.com/manjunath528/adventure_dashborad/assets/109943347/328d277b-0b74-4106-badb-97e037131fdd)
 
 
 - Step 9 : Hidded the all the foriegn keys in the fact tables for the report view so that we can filter only by using the primary keys.
